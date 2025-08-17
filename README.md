@@ -10,7 +10,7 @@ This project demonstrates core Java, Spring Boot, RESTful APIs, and basic authen
 - Spring Boot 3.x
 - Spring Security
 - Spring Data JPA (Hibernate)
-- PostgreSQL (Database)
+- h2 Database
 - Maven
 - Swagger (for API documentation)
 
