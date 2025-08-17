@@ -6,13 +6,13 @@ This project demonstrates core Java, Spring Boot, RESTful APIs, and basic authen
 ---
 
 ## Tech Stack
-- Java 17
-- Spring Boot 3.x
-- Spring Security
-- Spring Data JPA (Hibernate)
-- PostgreSQL (Database)
-- Maven
-- Swagger (for API documentation)
+-> Java 17
+-> Spring Boot 3.x
+-> Spring Security
+-> Spring Data JPA (Hibernate)
+-> PostgreSQL (Database)
+-> Maven
+-> Swagger (for API documentation)
 
 ---
 
