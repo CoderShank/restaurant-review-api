@@ -20,7 +20,7 @@ This project demonstrates core Java, Spring Boot, RESTful APIs, and basic authen
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/restaurant-review-api.git
+git clone https://github.com/CoderShank/restaurant-review-api.git
 cd restaurant-review-api
 
 **### 2. Configure Database**
